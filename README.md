@@ -118,6 +118,15 @@ Work in progress, v0.14. Six episodes produced; the engine grows per episode. Th
 honest gaps: no test suite beyond quality-check reports, Windows-first paths in the
 templates, and `docs/HANDOFF.md` still reads like a personal notebook.
 
+## Kiro
+
+- `.kiro/steering/rendering-invariants.md` — purity, seeded randomness, pixel grid,
+  one clock. These are the rules a change is rejected against.
+- `.kiro/steering/look-and-sound.md` — when to run `qa.report`, and why grades are
+  named rather than tuned per shot.
+- `.kiro/specs/engine-regression-suite/` — the spec for the test layer the engine
+  does not have yet (requirements / design / tasks).
+
 ## Requirements
 
 Python 3.13, `numpy opencv-python pillow scipy librosa soundfile`, `ffmpeg` on
