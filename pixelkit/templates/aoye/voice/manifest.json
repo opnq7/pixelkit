@@ -1,0 +1,477 @@
+{
+ "factor": 1.0,
+ "items": [
+  {
+   "id": "O1",
+   "text": "凌晨三点四十七。你对自己说：再刷十分钟就睡。",
+   "raw": "/home/claude/aoye/voice/cache/5cd8dece2baa71c1e347.mp3",
+   "raw_dur": 3.918292,
+   "wav": "/home/claude/aoye/voice/wav/O1.wav",
+   "dur": 3.857846
+  },
+  {
+   "id": "O2",
+   "text": "这十分钟，你没能刷完。",
+   "raw": "/home/claude/aoye/voice/cache/4de31d7faf01b60ca62e.mp3",
+   "raw_dur": 2.063625,
+   "wav": "/home/claude/aoye/voice/wav/O2.wav",
+   "dur": 2.023946
+  },
+  {
+   "id": "O3",
+   "text": "叮——检测到玩家死亡。死因：熬夜。",
+   "raw": "/home/claude/aoye/voice/cache/538535aa15646318956f.mp3",
+   "raw_dur": 2.977917,
+   "wav": "/home/claude/aoye/voice/wav/O3.wav",
+   "dur": 2.900476
+  },
+  {
+   "id": "O4",
+   "text": "别慌，你死了，但没完全死。",
+   "raw": "/home/claude/aoye/voice/cache/0f14c9ad626f750b3022.mp3",
+   "raw_dur": 2.533833,
+   "wav": "/home/claude/aoye/voice/wav/O4.wav",
+   "dur": 2.492834
+  },
+  {
+   "id": "O5",
+   "text": "通关五个副本，查明睡眠的真相，就能复活。",
+   "raw": "/home/claude/aoye/voice/cache/cdf6721e52ec86d9615f.mp3",
+   "raw_dur": 3.604833,
+   "wav": "/home/claude/aoye/voice/wav/O5.wav",
+   "dur": 3.554785
+  },
+  {
+   "id": "O6",
+   "text": "别点了。你上次，就是点的它。",
+   "raw": "/home/claude/aoye/voice/cache/da8c157c7cf5a147b353.mp3",
+   "raw_dur": 2.429333,
+   "wav": "/home/claude/aoye/voice/wav/O6.wav",
+   "dur": 2.386122
+  },
+  {
+   "id": "A1",
+   "text": "第一扇门：1938 年，地下四十米。",
+   "raw": "/home/claude/aoye/voice/cache/07b8f205fa5fc0d53f2c.mp3",
+   "raw_dur": 3.134625,
+   "wav": "/home/claude/aoye/voice/wav/A1.wav",
+   "dur": 3.089569
+  },
+  {
+   "id": "A2",
+   "text": "每扇门后，你都会附身到一个人身上。这次，是 43 岁的生理学家克莱特曼。",
+   "raw": "/home/claude/aoye/voice/cache/b7a16bbf4c141b9f7898.mp3",
+   "raw_dur": 6.530542,
+   "wav": "/home/claude/aoye/voice/wav/A2.wav",
+   "dur": 6.473651
+  },
+  {
+   "id": "A3",
+   "text": "他想知道：人按点犯困，是太阳在指挥，还是身体里自己有只钟？",
+   "raw": "/home/claude/aoye/voice/cache/0bedfe397afbc9976f43.mp3",
+   "raw_dur": 5.407292,
+   "wav": "/home/claude/aoye/voice/wav/A3.wav",
+   "dur": 5.36424
+  },
+  {
+   "id": "A4",
+   "text": "所以他钻进了一个没有阳光的山洞，给自己定了新规矩：一天 28 个小时。",
+   "raw": "/home/claude/aoye/voice/cache/1893698f3d2675ee7283.mp3",
+   "raw_dur": 5.72075,
+   "wav": "/home/claude/aoye/voice/wav/A4.wav",
+   "dur": 5.659116
+  },
+  {
+   "id": "A5",
+   "text": "学生勉强跟上了。可你，该睡时瞪眼到天亮，该干活时站着都能睡着。",
+   "raw": "/home/claude/aoye/voice/cache/d91ac8787974c9353cd6.mp3",
+   "raw_dur": 5.537917,
+   "wav": "/home/claude/aoye/voice/wav/A5.wav",
+   "dur": 5.484512
+  },
+  {
+   "id": "A6",
+   "text": "最关键的证据是体温：它本该白天高、夜里低。可在洞里，它根本不理新规矩，照样按 24 小时起落。",
+   "raw": "/home/claude/aoye/voice/cache/f75e04cb77efd65dcc04.mp3",
+   "raw_dur": 8.28075,
+   "wav": "/home/claude/aoye/voice/wav/A6.wav",
+   "dur": 8.232109
+  },
+  {
+   "id": "A7",
+   "text": "32 天后，数据告诉你：身体里真有一只钟，没有太阳，它也照样走。",
+   "raw": "/home/claude/aoye/voice/cache/37480b7c8101bf6f3795.mp3",
+   "raw_dur": 5.537917,
+   "wav": "/home/claude/aoye/voice/wav/A7.wav",
+   "dur": 5.49288
+  },
+  {
+   "id": "A8",
+   "text": "你熬夜、倒班、倒时差，都是在逼它陪你过 28 小时的一天。它不陪，难受的是你。",
+   "raw": "/home/claude/aoye/voice/cache/29c420c564f943e3a6e4.mp3",
+   "raw_dur": 5.537917,
+   "wav": "/home/claude/aoye/voice/wav/A8.wav",
+   "dur": 5.471247
+  },
+  {
+   "id": "A9",
+   "text": "可它为什么非逼你睡觉？你睡着以后，大脑在忙什么？",
+   "raw": "/home/claude/aoye/voice/cache/0e3fee8febfda25cf802.mp3",
+   "raw_dur": 3.813833,
+   "wav": "/home/claude/aoye/voice/wav/A9.wav",
+   "dur": 3.774059
+  },
+  {
+   "id": "B1",
+   "text": "第二扇门：1953 年，芝加哥。",
+   "raw": "/home/claude/aoye/voice/cache/589c33d54350354ace25.mp3",
+   "raw_dur": 2.664417,
+   "wav": "/home/claude/aoye/voice/wav/B1.wav",
+   "dur": 2.620454
+  },
+  {
+   "id": "B2",
+   "text": "你是穷研究生阿瑟林斯基，半夜盯着熟睡的儿子。别误会，这是科研。",
+   "raw": "/home/claude/aoye/voice/cache/1933d58618f2dd5bb664.mp3",
+   "raw_dur": 5.590167,
+   "wav": "/home/claude/aoye/voice/wav/B2.wav",
+   "dur": 5.533152
+  },
+  {
+   "id": "B3",
+   "text": "当时很多人以为，人一睡着，大脑就关机了。",
+   "raw": "/home/claude/aoye/voice/cache/c571f66e83f7465fef43.mp3",
+   "raw_dur": 3.186875,
+   "wav": "/home/claude/aoye/voice/wav/B3.wav",
+   "dur": 3.084626
+  },
+  {
+   "id": "B4",
+   "text": "可孩子的眼球突然在眼皮底下左右狂扫，脑电波活跃得像醒着一样。",
+   "raw": "/home/claude/aoye/voice/cache/60064fa682c2e58ae809.mp3",
+   "raw_dur": 5.067708,
+   "wav": "/home/claude/aoye/voice/wav/B4.wav",
+   "dur": 5.026621
+  },
+  {
+   "id": "B5",
+   "text": "你以为仪器坏了。不，你发现了睡眠的隐藏关卡：快速眼动期。",
+   "raw": "/home/claude/aoye/voice/cache/55e9bd5920c53d1e675f.mp3",
+   "raw_dur": 5.407292,
+   "wav": "/home/claude/aoye/voice/wav/B5.wav",
+   "dur": 5.368435
+  },
+  {
+   "id": "B6",
+   "text": "钻进大脑看看：夜里，这里灯火通明。",
+   "raw": "/home/claude/aoye/voice/cache/b55088ea3c51359aa877.mp3",
+   "raw_dur": 3.500333,
+   "wav": "/home/claude/aoye/voice/wav/B6.wav",
+   "dur": 3.453719
+  },
+  {
+   "id": "B7",
+   "text": "档案室在给白天的记忆归档，情绪科在消化你的焦虑。",
+   "raw": "/home/claude/aoye/voice/cache/fbae2fb41f904099d45e.mp3",
+   "raw_dur": 3.735458,
+   "wav": "/home/claude/aoye/voice/wav/B7.wav",
+   "dur": 3.69873
+  },
+  {
+   "id": "B8",
+   "text": "深睡时，清洁队开闸放水，用脑脊液把整栋楼冲一遍。",
+   "raw": "/home/claude/aoye/voice/cache/f2d9ec37a9f0b3d472fb.mp3",
+   "raw_dur": 5.224417,
+   "wav": "/home/claude/aoye/voice/wav/B8.wav",
+   "dur": 5.15712
+  },
+  {
+   "id": "B9",
+   "text": "睡觉不是关机，是每晚一次的系统维护。",
+   "raw": "/home/claude/aoye/voice/cache/e4781b17b4c9266c28b6.mp3",
+   "raw_dur": 3.3175,
+   "wav": "/home/claude/aoye/voice/wav/B9.wav",
+   "dur": 3.262766
+  },
+  {
+   "id": "B10",
+   "text": "而且快速眼动期大多排在后半夜。你熬夜少睡的那两小时，砍掉的正好是它。",
+   "raw": "/home/claude/aoye/voice/cache/c28d771b0ecacdcabf0b.mp3",
+   "raw_dur": 6.138708,
+   "wav": "/home/claude/aoye/voice/wav/B10.wav",
+   "dur": 6.060068
+  },
+  {
+   "id": "B11",
+   "text": "那如果，我偏要跳过呢？",
+   "raw": "/home/claude/aoye/voice/cache/f739456eeb73a1e25dac.mp3",
+   "raw_dur": 1.8285,
+   "wav": "/home/claude/aoye/voice/wav/B11.wav",
+   "dur": 1.775397
+  },
+  {
+   "id": "C1",
+   "text": "第三扇门：1964 年，圣地亚哥。",
+   "raw": "/home/claude/aoye/voice/cache/892aee68b056cf08ca31.mp3",
+   "raw_dur": 2.847292,
+   "wav": "/home/claude/aoye/voice/wav/C1.wav",
+   "dur": 2.794195
+  },
+  {
+   "id": "C2",
+   "text": "你是 17 岁的高中生加德纳，为了科学展，要挑战人类不睡觉的纪录。",
+   "raw": "/home/claude/aoye/voice/cache/30e29f067502e773ce52.mp3",
+   "raw_dur": 4.44075,
+   "wav": "/home/claude/aoye/voice/wav/C2.wav",
+   "dur": 4.385306
+  },
+  {
+   "id": "C3",
+   "text": "第 2 天，你摸到东西都认不出来。",
+   "raw": "/home/claude/aoye/voice/cache/e4e18133483f0101acde.mp3",
+   "raw_dur": 2.194208,
+   "wav": "/home/claude/aoye/voice/wav/C3.wav",
+   "dur": 2.156304
+  },
+  {
+   "id": "C4",
+   "text": "第 4 天，幻觉来了：你坚信自己是职业橄榄球明星。",
+   "raw": "/home/claude/aoye/voice/cache/1cae17662c108910b228.mp3",
+   "raw_dur": 4.44075,
+   "wav": "/home/claude/aoye/voice/wav/C4.wav",
+   "dur": 4.393991
+  },
+  {
+   "id": "C5",
+   "text": "第 11 天，让你从 100 一直减 7，减到 65，你忘了自己在干嘛。",
+   "raw": "/home/claude/aoye/voice/cache/38e1146f398dd759b4c5.mp3",
+   "raw_dur": 5.459542,
+   "wav": "/home/claude/aoye/voice/wav/C5.wav",
+   "dur": 5.410771
+  },
+  {
+   "id": "C6",
+   "text": "更吓人的是微睡眠：睁着眼，大脑却断线几秒，你自己毫不知情。疲劳驾驶出事，常常就是这几秒。",
+   "raw": "/home/claude/aoye/voice/cache/8958d9cc1a4fb0423c2d.mp3",
+   "raw_dur": 7.497083,
+   "wav": "/home/claude/aoye/voice/wav/C6.wav",
+   "dur": 7.453673
+  },
+  {
+   "id": "C7",
+   "text": "264.4 小时后，你倒头睡了 14 个小时。醒来，猜猜怎么着？",
+   "raw": "/home/claude/aoye/voice/cache/e8ee3f8aaa501f0c517b.mp3",
+   "raw_dur": 4.858708,
+   "wav": "/home/claude/aoye/voice/wav/C7.wav",
+   "dur": 4.819955
+  },
+  {
+   "id": "C8",
+   "text": "满血复活！",
+   "raw": "/home/claude/aoye/voice/cache/044beefab39f3405f6d0.mp3",
+   "raw_dur": 1.227708,
+   "wav": "/home/claude/aoye/voice/wav/C8.wav",
+   "dur": 1.138413
+  },
+  {
+   "id": "C9",
+   "text": "当时大家都这么想。下一关，专门打这句话的脸。",
+   "raw": "/home/claude/aoye/voice/cache/c0b26870df945dfe5f63.mp3",
+   "raw_dur": 3.787708,
+   "wav": "/home/claude/aoye/voice/wav/C9.wav",
+   "dur": 3.571315
+  },
+  {
+   "id": "D1",
+   "text": "第四扇门：2003 年，睡眠实验室。",
+   "raw": "/home/claude/aoye/voice/cache/f45845c4174cca3afe00.mp3",
+   "raw_dur": 2.847292,
+   "wav": "/home/claude/aoye/voice/wav/D1.wav",
+   "dur": 2.796281
+  },
+  {
+   "id": "D2",
+   "text": "连熬 11 天太极端。现实里，人是每天少睡一点。所以这回，你只要连续两周，每晚睡 6 小时。",
+   "raw": "/home/claude/aoye/voice/cache/d54b3d474414038fa078.mp3",
+   "raw_dur": 6.844042,
+   "wav": "/home/claude/aoye/voice/wav/D2.wav",
+   "dur": 6.752132
+  },
+  {
+   "id": "D3",
+   "text": "听着还行？两周后一测，你的注意力，和整整一夜没合眼的人差不多。",
+   "raw": "/home/claude/aoye/voice/cache/90c9e599518e56154a67.mp3",
+   "raw_dur": 5.355042,
+   "wav": "/home/claude/aoye/voice/wav/D3.wav",
+   "dur": 5.306304
+  },
+  {
+   "id": "D4",
+   "text": "最可怕的是，你自己觉得：我挺好的啊。",
+   "raw": "/home/claude/aoye/voice/cache/5539c87ed2f25a1b2ba4.mp3",
+   "raw_dur": 2.481583,
+   "wav": "/home/claude/aoye/voice/wav/D4.wav",
+   "dur": 2.419206
+  },
+  {
+   "id": "D5",
+   "text": "这就是睡眠债：每天欠一点，越滚越多，周末一个懒觉还不清。",
+   "raw": "/home/claude/aoye/voice/cache/ac7066f597d53edd8a86.mp3",
+   "raw_dur": 4.937083,
+   "wav": "/home/claude/aoye/voice/wav/D5.wav",
+   "dur": 4.891769
+  },
+  {
+   "id": "D6",
+   "text": "而每晚睡六七个小时，正是很多人的日常。",
+   "raw": "/home/claude/aoye/voice/cache/f0fc750020abc20d34ee.mp3",
+   "raw_dur": 3.134625,
+   "wav": "/home/claude/aoye/voice/wav/D6.wav",
+   "dur": 3.095102
+  },
+  {
+   "id": "D7",
+   "text": "那这只逼你睡觉的钟，到底藏在哪？答案小到你看不见。",
+   "raw": "/home/claude/aoye/voice/cache/af327d086cd9ce17890e.mp3",
+   "raw_dur": 4.284042,
+   "wav": "/home/claude/aoye/voice/wav/D7.wav",
+   "dur": 4.242834
+  },
+  {
+   "id": "E1",
+   "text": "最后一扇门：1971 年。",
+   "raw": "/home/claude/aoye/voice/cache/563a86e612200c2b5b92.mp3",
+   "raw_dur": 2.533833,
+   "wav": "/home/claude/aoye/voice/wav/E1.wav",
+   "dur": 2.483424
+  },
+  {
+   "id": "E2",
+   "text": "你是研究生科诺普卡，工作是：盯着果蝇睡觉。",
+   "raw": "/home/claude/aoye/voice/cache/fda18601028d3f617670.mp3",
+   "raw_dur": 3.395875,
+   "wav": "/home/claude/aoye/voice/wav/E2.wav",
+   "dur": 3.343265
+  },
+  {
+   "id": "E3",
+   "text": "你猜，这只钟写在基因里。于是你让大批果蝇基因突变，一只只记下它们的作息。",
+   "raw": "/home/claude/aoye/voice/cache/55b83073f2c01f560377.mp3",
+   "raw_dur": 5.773,
+   "wav": "/home/claude/aoye/voice/wav/E3.wav",
+   "dur": 5.731497
+  },
+  {
+   "id": "E4",
+   "text": "真找到了怪果蝇：有的一天 19 小时，有的将近 29 小时，有的干脆没规律。",
+   "raw": "/home/claude/aoye/voice/cache/a86043eca9c3d2b7ebc7.mp3",
+   "raw_dur": 5.903625,
+   "wav": "/home/claude/aoye/voice/wav/E4.wav",
+   "dur": 5.859252
+  },
+  {
+   "id": "E5",
+   "text": "它们全指向同一个基因，你给它起名：period，周期基因。",
+   "raw": "/home/claude/aoye/voice/cache/803342ea447cc4325f2c.mp3",
+   "raw_dur": 4.623625,
+   "wav": "/home/claude/aoye/voice/wav/E5.wav",
+   "dur": 4.579048
+  },
+  {
+   "id": "E6",
+   "text": "可那时没几个人在乎。你后来离开了学术界，2015 年去世。",
+   "raw": "/home/claude/aoye/voice/cache/fdfcd7f26698abfde698.mp3",
+   "raw_dur": 4.231792,
+   "wav": "/home/claude/aoye/voice/wav/E6.wav",
+   "dur": 4.187596
+  },
+  {
+   "id": "E7",
+   "text": "两年后，沿着这个基因挖下去的三位科学家，拿到了诺贝尔奖。",
+   "raw": "/home/claude/aoye/voice/cache/8cc1e14ac9d9ed7342ea.mp3",
+   "raw_dur": 4.623625,
+   "wav": "/home/claude/aoye/voice/wav/E7.wav",
+   "dur": 4.574943
+  },
+  {
+   "id": "E8",
+   "text": "他们看清了这只钟：周期基因造出 PER 蛋白，夜里越攒越多；",
+   "raw": "/home/claude/aoye/voice/cache/5a6fa956726055484ca3.mp3",
+   "raw_dur": 5.067708,
+   "wav": "/home/claude/aoye/voice/wav/E8.wav",
+   "dur": 5.011134
+  },
+  {
+   "id": "E9",
+   "text": "攒够了，就和搭档 TIM 手拉手，回去关掉自己的生产线；",
+   "raw": "/home/claude/aoye/voice/cache/ef7d8577512a913dd09e.mp3",
+   "raw_dur": 4.623625,
+   "wav": "/home/claude/aoye/voice/wav/E9.wav",
+   "dur": 4.583333
+  },
+  {
+   "id": "E10",
+   "text": "白天 PER 慢慢分解，开关重新打开。一圈，差不多 24 小时。",
+   "raw": "/home/claude/aoye/voice/cache/cf025b1f0a2f02c76981.mp3",
+   "raw_dur": 6.008125,
+   "wav": "/home/claude/aoye/voice/wav/E10.wav",
+   "dur": 5.96059
+  },
+  {
+   "id": "E11",
+   "text": "你几乎每个细胞里都有这样一只钟。你熬夜，就是在打乱它们所有人的节拍。",
+   "raw": "/home/claude/aoye/voice/cache/957c5721bd2c9347fee0.mp3",
+   "raw_dur": 5.067708,
+   "wav": "/home/claude/aoye/voice/wav/E11.wav",
+   "dur": 5.020317
+  },
+  {
+   "id": "F1",
+   "text": "五关通关。最后一个问题：人类就没有外挂吗？",
+   "raw": "/home/claude/aoye/voice/cache/5565435edef8fc0033fe.mp3",
+   "raw_dur": 3.787708,
+   "wav": "/home/claude/aoye/voice/wav/F1.wav",
+   "dur": 3.720045
+  },
+  {
+   "id": "F2",
+   "text": "有。电灯删掉了黑夜，咖啡挡住了困意，手机用光骗大脑：天还没黑。",
+   "raw": "/home/claude/aoye/voice/cache/fec31ed851eb50aae990.mp3",
+   "raw_dur": 6.713417,
+   "wav": "/home/claude/aoye/voice/wav/F2.wav",
+   "dur": 6.655918
+  },
+  {
+   "id": "F3",
+   "text": "都很好用。但价签上写的是同一种货币：睡眠。",
+   "raw": "/home/claude/aoye/voice/cache/8af14fced56d4fda8b4f.mp3",
+   "raw_dur": 3.970542,
+   "wav": "/home/claude/aoye/voice/wav/F3.wav",
+   "dur": 3.92644
+  },
+  {
+   "id": "F4",
+   "text": "科学家找了快一百年，还没找到能免费跳过睡眠的外挂。",
+   "raw": "/home/claude/aoye/voice/cache/46a82e9b287366d5d28d.mp3",
+   "raw_dur": 4.153417,
+   "wav": "/home/claude/aoye/voice/wav/F4.wav",
+   "dur": 4.110204
+  },
+  {
+   "id": "F5",
+   "text": "复活成功。新手提示：今晚，别再来了。",
+   "raw": "/home/claude/aoye/voice/cache/cb07aa98ef288e7b8d8d.mp3",
+   "raw_dur": 3.970542,
+   "wav": "/home/claude/aoye/voice/wav/F5.wav",
+   "dur": 3.912562
+  },
+  {
+   "id": "F6",
+   "text": "你一般熬到几点？评论区报个时间，看看谁是本服最强夜猫子。",
+   "raw": "/home/claude/aoye/voice/cache/d8abf281f43d24aefdfe.mp3",
+   "raw_dur": 4.466875,
+   "wav": "/home/claude/aoye/voice/wav/F6.wav",
+   "dur": 4.42263
+  }
+ ]
+}

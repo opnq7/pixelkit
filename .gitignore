@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Secrets — never commit
+tools/secrets.local.json
+*.local.json
+.env
+
+# Rendered output and working files
+_work/
+out/
+*.mp4
+*.mov
+*.wav
+*.mp3
+
+# Assets that stay local (fonts and reference frames have their own licences)
+assets/
+**/assets/
+vendor/
+
+# OS
+Thumbs.db
+.DS_Store
