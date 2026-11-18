@@ -8,14 +8,18 @@ It powers a Chinese knowledge-explainer series — six episodes so far, each
 scripted, storyboarded, voiced, scored and mastered from this repo.
 
 <p align="center">
-  <img src="docs/preview/scene1.jpg" alt="A dark room lit by a glowing balloon; a cat looks up at it" width="880">
+  <img src="docs/preview/hero.jpg" alt="A pixel-art office at golden hour: a robot secretary at its desk while labelled requests rain down around it" width="880">
 </p>
 <p align="center">
-  <img src="docs/preview/scene2.jpg" alt="Hands at a desk in a dark room, subtitle underneath" width="440">
-  <img src="docs/preview/scene3.jpg" alt="The same balloon labelled 注意力 (attention)" width="440">
+  <img src="docs/preview/park.jpg" alt="Two characters sitting on park benches under a pink afternoon sky" width="440">
+  <img src="docs/preview/lake.jpg" alt="Two figures fishing from a jetty at sunset" width="440">
+</p>
+<p align="center">
+  <img src="docs/preview/desk.jpg" alt="The robot at its desk in morning light, a chat bubble beside it" width="440">
+  <img src="docs/preview/night.jpg" alt="The same office at night, lit only by the monitor" width="440">
 </p>
 
-<p align="center"><sub>Stills rendered by this engine. Chinese subtitles are burned in at the compositing stage.</sub></p>
+<p align="center"><sub>Stills from the series, rendered by this engine. Subtitles and UI are baked in at the compositing stage.</sub></p>
 
 ## Why it exists
 
