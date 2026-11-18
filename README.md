@@ -126,5 +126,6 @@ MIT, not vendored here).
 
 ## Licence
 
-No licence yet — all rights reserved. Ask before reusing the code; the artwork and
-fonts are not mine to license.
+MIT for the code — see [LICENSE](LICENSE). The licence covers the source only:
+fonts, reference frames and other third-party assets are not included here and
+remain under their own licences.
